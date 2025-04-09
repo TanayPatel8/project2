@@ -1,2 +1,2 @@
 # new project
-this project is created from local system created by Tanay Patel 18.
+This project is created from local system created by Tanay Patel 18.
